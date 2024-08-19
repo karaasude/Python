@@ -1,0 +1,2 @@
+# Python
+Tas-Kagıt-Makas
